@@ -1,5 +1,4 @@
-## Hello there 👋
-(General Kenobi)
+## Hello there 👋 (General Kenobi)
 
 <h1 align="center">I'm Eduardo Henrique de Melo Deeke</h1>
 <h3 align="center">A passionate Computer Science student from Brazil</h3>
