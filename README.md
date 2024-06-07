@@ -2,6 +2,7 @@
 
 <h1 align="center">I'm Eduardo Henrique de Melo Deeke</h1>
 <h3 align="center">A passionate Computer Science student from Brazil</h3>
+<h3 align="center">Hope you have a great day</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
