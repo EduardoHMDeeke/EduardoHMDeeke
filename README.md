@@ -2,6 +2,7 @@
 
 <h1 align="center">I'm Eduardo Henrique de Melo Deeke</h1>
 <h3 align="center">A passionate Computer Science student from Brazil</h3>
+<h2 align="center">"All problems in Computer Science can be solved by another level of indirection,<br><bold>except</bold> for the problem of too many layers of indirection"<br>- David Wheeler</h3>
 <h3 align="center">Hope you have a great day</h3>
 
 <h3 align="left">Connect with me:</h3>
